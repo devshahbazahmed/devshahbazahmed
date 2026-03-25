@@ -1,9 +1,8 @@
 ## Hello there! I am Shahbaz 👋
 - 🔭 I write code.
 - 💡 Currently, I'm focusing on personal projects and honing my skills to create something remarkable.
-- 🚀 I use daily: JavaScript, Typescript, Git, Bash, Zed, Cursor, CLI, Docker, Postman
+- 🚀 I use daily: JavaScript, Typescript, Git, Bash, Cursor, CLI, Docker, Postman
 - 💻 I work using: NextJS, React, ShadCN, Tailwind CSS, Node.js, MongoDB, PostgreSQL, Vercel, GitHub
-- 📫 You can contact me at ansarishahbaz96@gmail.com
 - 😄 Pronouns: He/Him
 - 🍵 Tea(Chai) Enthusiast: I can't start my day without a warm cup of tea.
 
