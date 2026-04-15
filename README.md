@@ -11,7 +11,7 @@
 ![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,python,tailwind,nodejs,express,mongodb,postgresql,prisma,html,css,sass,git,github,vercel,vite,vscode,postman,discord,npm,yarn,pnpm,bun,notion)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devshahbazahmed&show_icons=true&theme=tokyonight)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devshahbazahmed&show_icons=true&theme=tokyonight) -->
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devshahbazahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
