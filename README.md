@@ -8,7 +8,7 @@
 
 
 ## 🛠️ Technologies and Tools I use
-![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,python,tailwind,nodejs,express,mongodb,mongoose,postgresql,prisma,drizzle,html,css,sass,git,github,vercel,netlify,digitalocean,vite,vscode,cursor,zed,requestly,postman,discord,npm,yarn,pnpm,bun,notion)
+![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,python,tailwind,nodejs,express,mongodb,postgresql,prisma,html,css,sass,git,github,vercel,vite,vscode,postman,discord,npm,yarn,pnpm,bun,notion)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazahmedansari&show_icons=true&theme=tokyonight)-->
